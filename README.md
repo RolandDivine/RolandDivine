@@ -1,59 +1,42 @@
-# Roland Divine Ogbaji
+<div align="center">
 
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/roland-divine-ogbaji-447224194#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/roland-divine-ogbaji-447224194#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://instagram.com/devidiamonds#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)](https://instagram.com/devidiamonds#gh-dark-mode-only)
+<img src="./img/profile/hero.svg" width="100%" alt="Roland Divine Ogbaji, Software Engineer and Founder of Nebula-Q Protocol"/>
 
-Welcome to my GitHub profile! I'm Roland, a passionate software developer with expertise in various programming languages and tools. I enjoy exploring new technologies and building innovative solutions. Let's connect on LinkedIn or Instagram to stay updated with my latest projects and activities.
+<a href="https://www.linkedin.com/in/roland-divine-ogbaji-447224194"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/defi_ring_master"><img src="https://img.shields.io/badge/Instagram-@defi__ring__master-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.youtube.com/watch?v=GLCyFAiJ_Rg"><img src="https://img.shields.io/badge/YouTube-Trade%20Like%20an%20Institution-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
-## Languages and Tools
+<br/><br/>
 
-Here are some of the languages and tools I work with:
+**I build software that moves money and information more safely, and automation that runs without me.**<br/>
+<sub>Founder & Group CEO, Nebula-Q Protocol · DeFi protocol design, smart contract auditing, cross-chain infrastructure · Chief International Adviser for Youth Innovation, Edo State</sub>
 
-- Visual Studio Code
-- HTML5
-- C
-- Canva
-- JavaScript
-- C#
-- GitHub
-- Markdown
-- Python
-- Polygon
-- Solidity
-- Visual Studio
-- MySQL
-- Git
+</div>
 
-Feel free to explore my repositories to see the projects I've worked on using these technologies.
+<br/>
 
----
+<img src="./img/profile/h-ship.svg" width="100%" alt="01 Now shipping"/>
 
-## Latest YouTube Videos
+<p align="center">
+  <a href="https://github.com/RolandDivine/gabriel"><img src="./img/profile/card-gabriel.svg" width="49%" alt="Gabriel"/></a>
+  <a href="https://github.com/RolandDivine/autopilot"><img src="./img/profile/card-autopilot.svg" width="49%" alt="Autopilot"/></a>
+  <img src="./img/profile/card-nqswap.svg" width="49%" alt="nQ-Swap (private)"/>
+  <img src="./img/profile/card-square.svg" width="49%" alt="Community Square (private)"/>
+  <a href="https://github.com/RolandDivine/The-EYE-"><img src="./img/profile/card-eye.svg" width="49%" alt="The EYE"/></a>
+</p>
 
-Stay tuned for my latest YouTube videos where I share insights, tutorials, and demos related to software development. Subscribe to my channel to receive updates whenever a new video is released.
+<p align="center"><sub>🔒 Private repositories are in active development. Ask me for a walkthrough.</sub></p>
 
-## Latest Blog Posts
+<img src="./img/profile/h-time.svg" width="100%" alt="02 2026 build log"/>
 
-I regularly write blog posts covering various topics related to programming, software development, and technology. Check out my latest articles to learn something new or gain insights into different aspects of the industry.
+<img src="./img/profile/timeline.svg" width="100%" alt="2026 build timeline"/>
 
----
+<br/>
 
-## Recent GitHub Activity
+<img src="./img/profile/h-stack.svg" width="100%" alt="03 Stack"/>
 
-Stay updated with my recent GitHub activity, including commits, pull requests, and contributions to open-source projects. Feel free to explore the details of my recent work.
+<img src="./img/profile/stack.svg" width="100%" alt="Languages, Web3, product and infrastructure tools"/>
 
-## GitHub Stats
+<br/>
 
-Get a snapshot of my GitHub statistics, including the number of repositories, followers, and contributions. Dive into the details to see my activity over time and get a sense of my coding journey.
-
----
-
-Connect with me on social media platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/roland-divine-ogbaji-447224194)
-- [Instagram](https://instagram.com/devidiamonds)
-
-Let's collaborate and create amazing software together!
+<img src="./img/profile/footer.svg" width="100%" alt="Building from Lagos"/>
